@@ -1,3 +1,5 @@
+github.com/TeaEntityLab/fpGo v1.1.3 h1:3YUe6YJnN1e7ly3E+LMs4rfGvuY3KYq7v4Fj2wI6lGY=
+github.com/TeaEntityLab/fpGo v1.1.3/go.mod h1:01H3ekh+z/OlKXYkiWAdJQTkYNBR3FOJSzF+akplJgc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/garyburd/redigo v1.6.0 h1:0VruCpn7yAIIu7pWVClQC8wxCJEcG3nyzpMSHKi1PQc=
