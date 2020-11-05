@@ -10,5 +10,6 @@ var a byte = 1 << len(s) / 128
 var b byte = 1 << len(s[:]) / 128
 
 func main() {
+	a := map[string]interface{}{"": ""}
 	println(a, b)
 }
