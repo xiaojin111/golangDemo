@@ -1,12 +1,9 @@
 package main
 
-import (
-	"log"
-	"net/url"
-)
+import "log"
 
 func main() {
-	u, _ := url.Parse("https://qrhealth.ihaozhuo.com/check?identity=41594894534856")
-
-	log.Println(u.Query()["identity"])
+	a := []int{1, 2, 3, 4, 5, 6, 7}
+	a = append(a[:6], a[6+1:]...)
+	log.Println(a)
 }
