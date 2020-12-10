@@ -17,11 +17,13 @@ require (
 	github.com/go-redis/redis/v8 v8.0.0-beta.7
 	github.com/gocolly/colly/v2 v2.1.0
 	github.com/gotk3/gotk3 v0.5.0 // indirect
+	github.com/jinzhu/now v1.1.1
 	github.com/lesismal/arpc v0.0.0-20200709074026-62b69a79e929 // indirect
 	github.com/mholt/archiver v3.1.1+incompatible
 	github.com/nwaples/rardecode v1.1.0 // indirect
 	github.com/panjf2000/ants/v2 v2.4.1 // indirect
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
+	github.com/satori/go.uuid v1.2.0
 	github.com/stretchr/testify v1.6.1
 	github.com/tealeg/xlsx v1.0.5
 	github.com/tidwall/gjson v1.6.3

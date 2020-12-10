@@ -16,3 +16,6 @@ func main() {
 	}
 	log.Println(string(data))
 }
+
+//http://mall.health-100.cn/test/static/js/app.f5a2ebc489b50e0c3320.js
+//http://mall.health-100.cn/test/static/js/app.f5a2ebc489b50e0c3320.js
