@@ -3,6 +3,7 @@ module golangDemo
 go 1.14
 
 require (
+	github.com/KenmyZhang/single-sign-on v0.0.0-20180717015455-8cea731153f3 // indirect
 	github.com/TeaEntityLab/fpGo v1.1.3
 	github.com/astaxie/beego v1.12.2 // indirect
 	github.com/bitly/go-simplejson v0.5.0
